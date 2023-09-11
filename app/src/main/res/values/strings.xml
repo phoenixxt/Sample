@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SampleReg</string>
+    <string name="next">Next</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="repeat_email">Repeat Email</string>
+    <string name="some_words">Enter some words here</string>
+    <string name="more_words">A bit more of your text here, please</string>
+    <string name="optional_text">You can skip this one</string>
+    <string name="done">Done</string>
+    <string name="first_name_error">First name isn\'t long enough or contains numbers</string>
+    <string name="last_name_error">Last name isn\'t long enough or contains numbers</string>
+    <string name="email_error">Valid Email is required</string>
+    <string name="repeat_email_error">You need to correctly repeat your email</string>
+    <string name="additional_info_error">Text isn\'t long enough</string>
+</resources>
